@@ -1,6 +1,5 @@
 - Hello World, I’m @OkDaniel
-- 👀 I’m interested in learning how to code 
-- 🌱 I’m currently learning Java for college
+- 🌱 I’m currently in college
 - 💞️ I’m looking to collaborate on anything to help others
 - 📫 How to reach me? Just email me! danijim4884@gmail.com 
 
